@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Diagnostics.CodeAnalysis;
-
 namespace Uppgift4_11
 {
     class Program
